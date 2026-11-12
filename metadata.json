@@ -1,0 +1,6 @@
+{
+  "name": "Digit Reader",
+  "description": "Interactive handwritten digit recognition web app with in-browser TensorFlow.js CNN training on MNIST, LeCun center-of-mass preprocessing, live loss/accuracy charts, and accessible probability breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
